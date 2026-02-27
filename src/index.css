@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Hind Madurai", ui-sans-serif, system-ui, sans-serif;
+  --font-serif: "Tiro Tamil", ui-serif, Georgia, serif;
+}
